@@ -1,0 +1,4 @@
+# Google Cloud platform DevOps Essentials lab
+
+Obtain a competitive advantage through DevOps. DevOps is an organizational and cultural movement that aims to increase software delivery velocity, improve service reliability, and build shared ownership among software stakeholders. In this quest you will learn how to use Google Cloud to improve the speed, stability, availability, and security of your software delivery capability. DevOps Research and Assessment has joined Google Cloud. How does your team measure up? Take this five question multiple-choice quiz and find out! Looking for a hands on challenge lab to demonstrate your skills and validate your knowledge? On completing this quest, enroll in and finish the additional challenge lab at the end of this quest to receive an exclusive Google Cloud digital badge.
+
